@@ -16,8 +16,7 @@ Available after version 1.06
   - [x] Ultra-fast application startup
   - [x] Saving the user's cookie settings
   - [x] Return to Exit Dependent Volume Keys
-  - [x] Face direction control by mouse
-  - [x] Lip sync from .WAV file in the avatar motion
+
 
 Unfinished list
 --------------------
