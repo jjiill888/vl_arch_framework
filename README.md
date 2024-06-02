@@ -21,6 +21,6 @@ Available after version 1.06
 
 Unfinished list
 --------------------
- - [ ]zerotier-based intranet access
- - [ ]The default layout of the reading interface may not be HCI compliant
- - [ ]Unable to actively download the book
+ - [ ] zerotier-based intranet access
+ - [ ] The default layout of the reading interface may not be HCI compliant
+ - [ ] Unable to actively download the book
