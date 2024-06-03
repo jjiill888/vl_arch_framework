@@ -1,8 +1,6 @@
  vl_arch_framework  
 ================================================
 
-An android gui framework that can create webview apps using url links.
-
 Initially it was used to create the Calibre-Web Android app, and now I seem to find it can be used in all sorts of places. It has a super small packaged size and low permission requirements, so I'm opening it up for improvement!
 
 Feature
