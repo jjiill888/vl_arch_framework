@@ -23,3 +23,5 @@ Unfinished list
  - [ ] zerotier-based intranet access
  - [ ] The default layout of the reading interface may not be HCI compliant
  - [ ] Unable to actively download the book
+
+![cute_logo](doc/images/pic.jpg#pic_center)
