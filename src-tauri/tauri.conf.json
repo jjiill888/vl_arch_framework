@@ -5,7 +5,7 @@
   "identifier": "com.vl-arch.app",
   "build": {
     "beforeDevCommand": "npm run dev",
-    "devUrl": "you_url",
+    "devUrl": "http://server.15110y.top:8083",
     "beforeBuildCommand": "npm run build",
     "frontendDist": "../dist"
   },
@@ -13,7 +13,7 @@
     "windows": [
       {
         "label": "main",
-        "url": "http://server.15110y.top:8083", 
+        "url": "http://server.15110y.top:8083",
         "title": "vl_arch",
         "width": 1200,
         "height": 800,
